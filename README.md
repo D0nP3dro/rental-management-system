@@ -1,2 +1,7 @@
-# rental-management-system"Test" 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> main
+=======
+>>>>>>> main
 "Test" 
